@@ -1,0 +1,949 @@
+{
+  "Version": 1,
+  "Hash": "U9YA1YTPIiUB34TiHCHm4f13yHE0Ajtl+vo3eEPYm7A=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API\\wwwroot",
+      "Source": "API",
+      "ContentRoot": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\0d2581ff-e568-4850-9d8c-27f605f986f9.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "uploads/0d2581ff-e568-4850-9d8c-27f605f986f9#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uvud6z4pi6",
+      "Integrity": "mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\0d2581ff-e568-4850-9d8c-27f605f986f9.png"
+    },
+    {
+      "Identity": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\1510381c-f546-4a4e-ba1a-b71091fc8d1c.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "uploads/1510381c-f546-4a4e-ba1a-b71091fc8d1c#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uvud6z4pi6",
+      "Integrity": "mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1510381c-f546-4a4e-ba1a-b71091fc8d1c.png"
+    },
+    {
+      "Identity": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\1585a2ef-9ae3-47eb-aa4b-6b374c2bfa4d.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "uploads/1585a2ef-9ae3-47eb-aa4b-6b374c2bfa4d#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uvud6z4pi6",
+      "Integrity": "mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1585a2ef-9ae3-47eb-aa4b-6b374c2bfa4d.png"
+    },
+    {
+      "Identity": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\30303987-bf32-4747-ba1b-993081579ee7.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "uploads/30303987-bf32-4747-ba1b-993081579ee7#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uvud6z4pi6",
+      "Integrity": "mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\30303987-bf32-4747-ba1b-993081579ee7.png"
+    },
+    {
+      "Identity": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\32302bd0-601a-41c7-8e1b-26ca08efe3e9.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "uploads/32302bd0-601a-41c7-8e1b-26ca08efe3e9#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uvud6z4pi6",
+      "Integrity": "mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\32302bd0-601a-41c7-8e1b-26ca08efe3e9.png"
+    },
+    {
+      "Identity": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\44cad9e0-fd05-4344-9c6b-386c1526e05c.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "uploads/44cad9e0-fd05-4344-9c6b-386c1526e05c#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uvud6z4pi6",
+      "Integrity": "mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\44cad9e0-fd05-4344-9c6b-386c1526e05c.png"
+    },
+    {
+      "Identity": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\6662c1e0-5bea-4cad-a971-e94246a83093.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "uploads/6662c1e0-5bea-4cad-a971-e94246a83093#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uvud6z4pi6",
+      "Integrity": "mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\6662c1e0-5bea-4cad-a971-e94246a83093.png"
+    },
+    {
+      "Identity": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\cc3cb0ac-6213-46cf-aaab-337189767503.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "uploads/cc3cb0ac-6213-46cf-aaab-337189767503#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uvud6z4pi6",
+      "Integrity": "mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\cc3cb0ac-6213-46cf-aaab-337189767503.png"
+    },
+    {
+      "Identity": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\fefc9d7b-790c-4500-b516-346f559ffea8.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "uploads/fefc9d7b-790c-4500-b516-346f559ffea8#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uvud6z4pi6",
+      "Integrity": "mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\fefc9d7b-790c-4500-b516-346f559ffea8.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/0d2581ff-e568-4850-9d8c-27f605f986f9.png",
+      "AssetFile": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\0d2581ff-e568-4850-9d8c-27f605f986f9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "238883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Jul 2024 14:48:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/0d2581ff-e568-4850-9d8c-27f605f986f9.uvud6z4pi6.png",
+      "AssetFile": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\0d2581ff-e568-4850-9d8c-27f605f986f9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "238883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Jul 2024 14:48:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uvud6z4pi6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/0d2581ff-e568-4850-9d8c-27f605f986f9.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1510381c-f546-4a4e-ba1a-b71091fc8d1c.png",
+      "AssetFile": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\1510381c-f546-4a4e-ba1a-b71091fc8d1c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "238883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Jul 2024 14:35:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1510381c-f546-4a4e-ba1a-b71091fc8d1c.uvud6z4pi6.png",
+      "AssetFile": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\1510381c-f546-4a4e-ba1a-b71091fc8d1c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "238883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Jul 2024 14:35:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uvud6z4pi6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1510381c-f546-4a4e-ba1a-b71091fc8d1c.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1585a2ef-9ae3-47eb-aa4b-6b374c2bfa4d.png",
+      "AssetFile": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\1585a2ef-9ae3-47eb-aa4b-6b374c2bfa4d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "238883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Jul 2024 14:54:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1585a2ef-9ae3-47eb-aa4b-6b374c2bfa4d.uvud6z4pi6.png",
+      "AssetFile": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\1585a2ef-9ae3-47eb-aa4b-6b374c2bfa4d.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "238883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Jul 2024 14:54:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uvud6z4pi6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1585a2ef-9ae3-47eb-aa4b-6b374c2bfa4d.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/30303987-bf32-4747-ba1b-993081579ee7.png",
+      "AssetFile": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\30303987-bf32-4747-ba1b-993081579ee7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "238883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Jul 2024 14:46:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/30303987-bf32-4747-ba1b-993081579ee7.uvud6z4pi6.png",
+      "AssetFile": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\30303987-bf32-4747-ba1b-993081579ee7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "238883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Jul 2024 14:46:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uvud6z4pi6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/30303987-bf32-4747-ba1b-993081579ee7.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/32302bd0-601a-41c7-8e1b-26ca08efe3e9.png",
+      "AssetFile": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\32302bd0-601a-41c7-8e1b-26ca08efe3e9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "238883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Jul 2024 15:08:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/32302bd0-601a-41c7-8e1b-26ca08efe3e9.uvud6z4pi6.png",
+      "AssetFile": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\32302bd0-601a-41c7-8e1b-26ca08efe3e9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "238883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Jul 2024 15:08:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uvud6z4pi6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/32302bd0-601a-41c7-8e1b-26ca08efe3e9.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/44cad9e0-fd05-4344-9c6b-386c1526e05c.png",
+      "AssetFile": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\44cad9e0-fd05-4344-9c6b-386c1526e05c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "238883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Jul 2024 14:56:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/44cad9e0-fd05-4344-9c6b-386c1526e05c.uvud6z4pi6.png",
+      "AssetFile": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\44cad9e0-fd05-4344-9c6b-386c1526e05c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "238883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Jul 2024 14:56:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uvud6z4pi6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/44cad9e0-fd05-4344-9c6b-386c1526e05c.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6662c1e0-5bea-4cad-a971-e94246a83093.png",
+      "AssetFile": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\6662c1e0-5bea-4cad-a971-e94246a83093.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "238883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Jul 2024 15:02:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6662c1e0-5bea-4cad-a971-e94246a83093.uvud6z4pi6.png",
+      "AssetFile": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\6662c1e0-5bea-4cad-a971-e94246a83093.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "238883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Jul 2024 15:02:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uvud6z4pi6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/6662c1e0-5bea-4cad-a971-e94246a83093.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cc3cb0ac-6213-46cf-aaab-337189767503.png",
+      "AssetFile": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\cc3cb0ac-6213-46cf-aaab-337189767503.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "238883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Jul 2024 14:38:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cc3cb0ac-6213-46cf-aaab-337189767503.uvud6z4pi6.png",
+      "AssetFile": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\cc3cb0ac-6213-46cf-aaab-337189767503.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "238883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Jul 2024 14:38:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uvud6z4pi6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/cc3cb0ac-6213-46cf-aaab-337189767503.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/fefc9d7b-790c-4500-b516-346f559ffea8.png",
+      "AssetFile": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\fefc9d7b-790c-4500-b516-346f559ffea8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "238883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Jul 2024 14:41:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/fefc9d7b-790c-4500-b516-346f559ffea8.uvud6z4pi6.png",
+      "AssetFile": "C:\\my-files\\Projects\\furat-shop\\API\\wwwroot\\uploads\\fefc9d7b-790c-4500-b516-346f559ffea8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "238883"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Jul 2024 14:41:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uvud6z4pi6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/fefc9d7b-790c-4500-b516-346f559ffea8.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mo8S01Wzw3sXPAFkjzTI6acMZfkuN+CMYoYxZ7pdrj4="
+        }
+      ]
+    }
+  ]
+}
